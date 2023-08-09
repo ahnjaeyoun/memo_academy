@@ -1,0 +1,6 @@
+select, insert, update, delete 	->	트렌잭션		->	DATABASE
+				<-			COMMIT
+				ROLLBACK
+
+
+DEBEAVER -> 윈도우 -> 설정 -> 연결 -> 연결유형 -> Auto-commit 해제

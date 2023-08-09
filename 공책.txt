@@ -1,0 +1,20 @@
+git clone : git에 저장되어있는 것을 복사해오기
+git pull : git에 저장되어있는 것을 가져오기(컴퓨터에 있는 코딩파일에 덮어씌우기)
+ls : 폴더안에 있는 작업 파일을 보여줌
+cd src : src 폴더로 이동(src 말고도 다른 폴더가 있다면 이동할 수 있다)
+cd .. : 상위 폴더로 이동 
+
+배열 선언
+int[] arr ;
+
+배열 할당
+arr = new int[?]
+
+run class
+(run할 파일이름) (변수 이름 지정) = new (run할 파일이름)();
+
+List 작성(기본) : [접근제어자] List<g> 변수명 = new ArrayList<g>();
+set 작성(기본) : [접근제어자] Set<g> 변수명 = new HashSet<g>();
+g는 제네릭
+
+

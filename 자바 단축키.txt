@@ -1,0 +1,14 @@
+ctrl + shift + f : 소스코드 자동정리
+Ctrl + Shift + O : 소스에 필요한 패키지를 자동으로 Import 시키기
+Ctrl + / : 한줄 또는 선택영역 주석처리 / 제거
+Ctrl + D : 한줄삭제
+Ctrl + N : 새로운 파일 및 프로젝트 생성
+Ctrl + S : 저장 및 컴파일
+Ctrl + space : 어휘의 자동완성(Content Assistance)
+Alt + UP,DOWN : 현재 줄 위치 이동
+Alt + Shift + 방향 : 선택
+Alt + ->, Alt + <- : 이후, 이전
+sysout > Ctrl + Space : System.out.println();
+for > Ctrl + Space : 기본 for문 완성
+Ctrl + W : 파일 닫기
+Ctrl + Shift + F4 : 열린 파일 모두 닫기

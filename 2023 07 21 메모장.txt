@@ -1,0 +1,9 @@
+2023 07 21
+1차원 배열 int[] arr / int arr[]
+2차원 배열 int[][] arr / int arr[][] / int[] arr[]
+
+1차원 배열은 -> 변수를 묶음으로 다루는 것
+2차원 배열은 -> 1차원 배열을 묶음으로 다루는 것
+
+int[] arr = new int[][] ==> O
+	= new int[] ==> X	
