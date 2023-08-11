@@ -77,11 +77,13 @@ INTERSECT(교집합) : 두 SELECT 결과 중 중복되는 부분만 조회
 UNION ALL : UNION + INTERSECT : 합집합에서 중복 부분 제거 X
 MINUS (차집합) : A에서 A,B 교집합 부분을 제거하고 조회
 
-SQL(Structured Query Language) 분류
-DDL : 데이터베이스의 객체(table, 시퀸스)를 정의 (GRANT, REVOKE)
+	[SQL(Structured Query Language) 분류]
+DDL : 데이터베이스의 객체(table, 시퀸스)를 정의 (CREATE, ALTER, DROP, TRUNCATE)
 DML : 데이터 조작, 객체 안의 값들을 조작 (INSERT, UPDATE, DELETE, SELECT)
 DCL : 권한 제어 (GRANT, REVOKE)
 TCL : 트랜젝션 제어 COMMIT(데이터에 저장된걸 영구 저장), ROLLBACK(데이터에 저장된걸 되돌려줌)
+
+
 
 
 
