@@ -1,0 +1,17 @@
+Java DataBase Connectivity <- java.sql안에 있다
+API : Application Programming Interface
+
+Scanner	(java.util)
+List
+String	(java.lang)
+InputStream	(java.io)
+
+자바회사에서 배포 : api
+사용자가 배포 : library
+
+Oracle JDBC(OJDBC)
+
+Class.forName("oracle.jdbc.driver.OracleDriver"); -> Instance화
+-> DriverManager -> Connection 인터페이스 구현 객체 ->
+getConnection(DBMS 타입, 이름, IP, port, 계정명, 비밀번호) -> Connection conn에 저장
+
